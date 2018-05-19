@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Caelumlabs/poe-library.svg?branch=master)](https://travis-ci.org/Caelumlabs/poe-library)
+[![Coverage Status](https://coveralls.io/repos/github/Caelumlabs/poe-library/badge.svg?branch=master)](https://coveralls.io/github/Caelumlabs/poe-library?branch=master)
+
 # poe-library
 A Node.js module to interact with the Poe Blockchain Network
 ## Installation
