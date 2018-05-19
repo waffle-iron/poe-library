@@ -1,0 +1,26 @@
+{
+  "name": "poe-library",
+  "version": "1.0.1",
+  "description": "Poe Blockchain Library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caelumlabs/poe-library.git"
+  },
+  "author": "Alex Puig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caelumlabs/poe-library/issues"
+  },
+  "homepage": "https://github.com/Caelumlabs/poe-library#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "typescript": "^2.8.3"
+  }
+}
