@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Caelumlabs/poe-library.png?columns=all)](https://waffle.io/Caelumlabs/poe-library?utm_source=badge)
 [![Build Status](https://travis-ci.org/Caelumlabs/poe-library.svg?branch=master)](https://travis-ci.org/Caelumlabs/poe-library)
 [![Coverage Status](https://coveralls.io/repos/github/Caelumlabs/poe-library/badge.svg?branch=master)](https://coveralls.io/github/Caelumlabs/poe-library?branch=master)
 
